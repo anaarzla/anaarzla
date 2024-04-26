@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anaarzla
-- 👀 I’m interested in ... creating new projects! 
+- 👀 I’m interested in ... 3D Design
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... new skills
-- 📫 How to reach me ... linkedIn profile @ 
+- 💞️ I’m looking to collaborate on ... new projects
 
 <!---
 anaarzla/anaarzla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
